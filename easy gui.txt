@@ -18,7 +18,7 @@ red.Size = UDim2.new(0, 183, 0, 146)
 red.active = true
 red.draggable = true
 
-easyGui.Name = "easy Gui"
+easyGui.Name = "easy Gui-By:Tricky"
 easyGui.Parent = red
 easyGui.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 easyGui.Size = UDim2.new(0, 183, 0, 24)
