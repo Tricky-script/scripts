@@ -52,7 +52,8 @@ Jailbreak.Text = "Jailbreak"
 Jailbreak.TextColor3 = Color3.fromRGB(129, 25, 255)
 Jailbreak.TextSize = 14.000
 Jailbreak.MouseButton1Down.connect(function)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1"))()	
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1"))()
+/end
 	
 RainbowFriends.Name = "Rainbow Friends"
 RainbowFriends.Parent = EasyGuiV1
@@ -65,6 +66,7 @@ RainbowFriends.TextColor3 = Color3.fromRGB(85, 85, 0)
 RainbowFriends.TextSize = 14.000
 RainbowFriends.MouseButton1Down.connect(function)
 	loadstring(game:HttpGet("https://pastebin.com/raw/yVhAwibN"))()
+/end
 	
 Prisonlifeophack.Name = "Prison life op hack"
 Prisonlifeophack.Parent = EasyGuiV1
@@ -77,6 +79,7 @@ Prisonlifeophack.TextColor3 = Color3.fromRGB(170, 85, 127)
 Prisonlifeophack.TextSize = 14.000
 Prisonlifeophack.MouseButton1Down.connect(function)
 	loadstring(game:HttpGet("https://pastebin.com/raw/mHfK0Xk4", true))()
+/end
 		
 IYloadnow.Name = "IY load now"
 IYloadnow.Parent = EasyGuiV1
@@ -89,6 +92,7 @@ IYloadnow.TextColor3 = Color3.fromRGB(0, 0, 0)
 IYloadnow.TextSize = 14.000
 IYloadnow.MouseButton1Down.connect(function)
 	loadstring(game:HttpGet("https://pastebin.com/raw/mHfK0Xk4", true))()
+/end
 
 Speed.Name = "Speed"
 Speed.Parent = EasyGuiV1
@@ -101,6 +105,7 @@ Speed.TextColor3 = Color3.fromRGB(168, 168, 168)
 Speed.TextSize = 14.000
 Speed.MouseButton1Down.connect(function)
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua"))()
+/end
 
 KLbestscript.Name = "KL best script"
 KLbestscript.Parent = EasyGuiV1
@@ -113,6 +118,7 @@ KLbestscript.TextColor3 = Color3.fromRGB(0, 0, 0)
 KLbestscript.TextSize = 14.000
 KLbestscript.MouseButton1Down.connect(function)
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Strikehubv2z/StormSKz/main/All_in_one"))()
+/end
 
 TextButton.Parent = EasyGuiV1
 TextButton.BackgroundColor3 = Color3.fromRGB(255, 1, 1)
@@ -124,6 +130,7 @@ TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.TextSize = 14.000
 Textbutton.MouseButton1Down.connect(function)
 	loadstring(game:HttpGet("https://pastebin.com/raw/CYye6uA4"))()
+/end
 
 TextButton_2.Parent = EasyGuiV1
 TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
@@ -135,3 +142,4 @@ TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_2.TextSize = 14.000
 TextButton_2.MouseButton1Down.connect(function)						
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua"))()
+/end
