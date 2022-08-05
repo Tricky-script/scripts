@@ -1,0 +1,137 @@
+local EasyGuiV1 = Instance.new("ScreenGui")
+local Main = Instance.new("Frame")
+local easyguiname = Instance.new("TextLabel")
+local joinus = Instance.new("TextLabel")
+local Jailbreak = Instance.new("TextButton")
+local RainbowFriends = Instance.new("TextButton")
+local Prisonlifeophack = Instance.new("TextButton")
+local IYloadnow = Instance.new("TextButton")
+local Speed = Instance.new("TextButton")
+local KLbestscript = Instance.new("TextButton")
+local TextButton = Instance.new("TextButton")
+local TextButton_2 = Instance.new("TextButton")
+
+--Properties:
+
+EasyGuiV1.Name = "Easy Gui-V1"
+EasyGuiV1.Parent = game.Workspace
+
+Main.Name = "Main"
+Main.Parent = EasyGuiV1
+Main.BackgroundColor3 = Color3.fromRGB(188, 232, 255)
+Main.Position = UDim2.new(0.0441595428, 0, 0.0898203701, 0)
+Main.Size = UDim2.new(0, 356, 0, 203)
+
+easyguiname.Name = "easy gui name"
+easyguiname.Parent = EasyGuiV1
+easyguiname.BackgroundColor3 = Color3.fromRGB(190, 160, 255)
+easyguiname.Position = UDim2.new(0.0441595428, 0, 0.0898203626, 0)
+easyguiname.Size = UDim2.new(0, 92, 0, 25)
+easyguiname.Font = Enum.Font.SourceSans
+easyguiname.Text = "Easy Gui-V1"
+easyguiname.TextColor3 = Color3.fromRGB(0, 0, 0)
+easyguiname.TextSize = 14.000
+
+joinus.Name = "join us"
+joinus.Parent = EasyGuiV1
+joinus.BackgroundColor3 = Color3.fromRGB(64, 73, 255)
+joinus.Position = UDim2.new(0.17521368, 0, 0.0898203626, 0)
+joinus.Size = UDim2.new(0, 264, 0, 25)
+joinus.Font = Enum.Font.SourceSans
+joinus.Text = "Join us in qq:300083197"
+joinus.TextColor3 = Color3.fromRGB(0, 0, 0)
+joinus.TextSize = 14.000
+
+Jailbreak.Name = "Jailbreak"
+Jailbreak.Parent = EasyGuiV1
+Jailbreak.BackgroundColor3 = Color3.fromRGB(255, 230, 152)
+Jailbreak.Position = UDim2.new(0.0484330468, 0, 0.151696593, 0)
+Jailbreak.Size = UDim2.new(0, 85, 0, 24)
+Jailbreak.Font = Enum.Font.SourceSans
+Jailbreak.Text = "Jailbreak"
+Jailbreak.TextColor3 = Color3.fromRGB(129, 25, 255)
+Jailbreak.TextSize = 14.000
+Jailbreak.MouseButton1Down.connect(function)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1"))()	
+	
+RainbowFriends.Name = "Rainbow Friends"
+RainbowFriends.Parent = EasyGuiV1
+RainbowFriends.BackgroundColor3 = Color3.fromRGB(84, 110, 255)
+RainbowFriends.Position = UDim2.new(0.410256416, 0, 0.151696593, 0)
+RainbowFriends.Size = UDim2.new(0, 90, 0, 24)
+RainbowFriends.Font = Enum.Font.SourceSans
+RainbowFriends.Text = "Rainbow Friends"
+RainbowFriends.TextColor3 = Color3.fromRGB(85, 85, 0)
+RainbowFriends.TextSize = 14.000
+RainbowFriends.MouseButton1Down.connect(function)
+	loadstring(game:HttpGet("https://pastebin.com/raw/yVhAwibN"))()
+	
+Prisonlifeophack.Name = "Prison life op hack"
+Prisonlifeophack.Parent = EasyGuiV1
+Prisonlifeophack.BackgroundColor3 = Color3.fromRGB(255, 224, 96)
+Prisonlifeophack.Position = UDim2.new(0.188034147, 0, 0.151696593, 0)
+Prisonlifeophack.Size = UDim2.new(0, 138, 0, 24)
+Prisonlifeophack.Font = Enum.Font.SourceSans
+Prisonlifeophack.Text = "Prison life op hack"
+Prisonlifeophack.TextColor3 = Color3.fromRGB(170, 85, 127)
+Prisonlifeophack.TextSize = 14.000
+Prisonlifeophack.MouseButton1Down.connect(function)
+	loadstring(game:HttpGet("https://pastebin.com/raw/mHfK0Xk4", true))()
+		
+IYloadnow.Name = "IY load now"
+IYloadnow.Parent = EasyGuiV1
+IYloadnow.BackgroundColor3 = Color3.fromRGB(65, 120, 59)
+IYloadnow.Position = UDim2.new(0.0484330468, 0, 0.219560862, 0)
+IYloadnow.Size = UDim2.new(0, 344, 0, 24)
+IYloadnow.Font = Enum.Font.SourceSans
+IYloadnow.Text = "IY load now[best roblox cmd hack script]"
+IYloadnow.TextColor3 = Color3.fromRGB(0, 0, 0)
+IYloadnow.TextSize = 14.000
+IYloadnow.MouseButton1Down.connect(function)
+	loadstring(game:HttpGet("https://pastebin.com/raw/mHfK0Xk4", true))()
+
+Speed.Name = "Speed"
+Speed.Parent = EasyGuiV1
+Speed.BackgroundColor3 = Color3.fromRGB(17, 40, 255)
+Speed.Position = UDim2.new(0.0484330468, 0, 0.279441118, 0)
+Speed.Size = UDim2.new(0, 66, 0, 102)
+Speed.Font = Enum.Font.SourceSans
+Speed.Text = "speed legn"
+Speed.TextColor3 = Color3.fromRGB(168, 168, 168)
+Speed.TextSize = 14.000
+Speed.MouseButton1Down.connect(function)
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua"))()
+
+KLbestscript.Name = "KL best script"
+KLbestscript.Parent = EasyGuiV1
+KLbestscript.BackgroundColor3 = Color3.fromRGB(255, 255, 78)
+KLbestscript.Position = UDim2.new(0.169515669, 0, 0.279441118, 0)
+KLbestscript.Size = UDim2.new(0, 96, 0, 43)
+KLbestscript.Font = Enum.Font.SourceSans
+KLbestscript.Text = "KL script[by:1_F0]"
+KLbestscript.TextColor3 = Color3.fromRGB(0, 0, 0)
+KLbestscript.TextSize = 14.000
+KLbestscript.MouseButton1Down.connect(function)
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Strikehubv2z/StormSKz/main/All_in_one"))()
+
+TextButton.Parent = EasyGuiV1
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 1, 1)
+TextButton.Position = UDim2.new(0.169515669, 0, 0.385229558, 0)
+TextButton.Size = UDim2.new(0, 253, 0, 43)
+TextButton.Font = Enum.Font.SourceSans
+TextButton.Text = "Best script[1x1x1x1]"
+TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.TextSize = 14.000
+Textbutton.MouseButton1Down.connect(function)
+	loadstring(game:HttpGet("https://pastebin.com/raw/CYye6uA4"))()
+
+TextButton_2.Parent = EasyGuiV1
+TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+TextButton_2.Position = UDim2.new(0.324786335, 0, 0.279441118, 0)
+TextButton_2.Size = UDim2.new(0, 144, 0, 43)
+TextButton_2.Font = Enum.Font.SourceSans
+TextButton_2.Text = "your adv script"
+TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_2.TextSize = 14.000
+TextButton_2.MouseButton1Down.connect(function)						
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua"))()
